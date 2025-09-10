@@ -2,7 +2,7 @@ package main
 
 import (
   "fmt"
-  erigonapp "github.com/tagdus/erigon/turbo/app"
+  erigonapp "github.com/erigontech/erigon/turbo/app"
 )
 
 func main() {
